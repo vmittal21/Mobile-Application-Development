@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Multi Note</string>
+    <string name="todo">TODO</string>
+    <string name="copyright">© 2020, Vidhi Mittal</string>
+
+
+    <string name="saved">Notes Saved !!</string>
+
+    <string name="filename">Notes.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="versionNumber">Version 1.0</string>
+    <string name="noteTitleDefaultText">Enter Note Title here ...</string>
+    <string name="noteDescriptionDefaultText">Enter Note Description here ...</string>
+    <string name="info_menu">info_menu</string>
+    <string name="add_menu">add_menu</string>
+    <string name="editTextNoteDescription">editTextNoteDescription</string>
+    <string name="editTextNoteTitle">editTextNoteTitle</string>
+    <string name="textViewDate">textViewDate</string>
+
+
+</resources>
