@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="copyright">© 2020, Vidhi Mittal</string>
+    <string name="versionNumber">Version 1.0</string>
+    <string name="about">about</string>
+    <string name="search_menu">search_menu</string>
+    <string name="about_menu">about_menu</string>
+    <string name="powered_by">Powered by</string>
+    <string name="no_data_for_location">No Data For Location</string>
+    <string name="no_network_connection_n_data_cannot_be_accessed_loaded_without_an_internet_connection">No Network Connection\n Data cannot be accessed/loaded without an internet connection.</string>
+    <string name="textview">TextView</string>
+</resources>
